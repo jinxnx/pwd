@@ -1,0 +1,129 @@
+body {
+	background-image: url("bgr.jpg");
+	background-size: cover;
+}
+
+.menu {
+	background: #dfdada;
+}
+.menu ul {
+	padding: 10px;
+	list-style: none;
+	margin: 0px auto;
+}
+.menu ul li {
+	display: inline-block;
+	padding: 10px;
+}
+.Judul {
+	background: #2398ef;
+	padding: 10px;
+	margin: 0px auto;
+}
+.Judul img {
+	width: 50px;
+	height: 50px;
+}
+.content {
+
+}
+.content .bagiankiri {
+	float: left;
+	background: #456789;
+	width: 60%;
+}
+.content .bagiankanan {
+	float: right;
+	background: #f3e0db;
+	width: 28%;
+}
+.content .bagiankanan ul {
+	list-style: none;
+}
+.content h2 {
+	margin: 10px;
+}
+.produk {
+	display: inline-block;
+	width: 25%;
+	padding: 10px;
+	background : #f3e0db;
+	margin: 10px;
+	font-size: 20px;
+}
+
+.produk img {
+	width: 100%;
+}
+
+ 
+.tulisan_login{
+	text-align: center;
+	text-transform: uppercase;
+}
+ 
+.kotak_login{
+	width: 350px;
+	background: white;
+	margin: 80px auto;
+	padding: 30px 20px;
+	opacity: 0.75;
+}
+ 
+label{
+	font-size: 11pt;
+}
+ 
+.form_login{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+ 
+.tombol_login{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+ 
+.daftar{
+	text-align: center;
+	text-transform: uppercase;
+}
+ 
+.kotak_daftar{
+	width: 350px;
+	background: white;
+	margin: 80px auto;
+	padding: 30px 20px;
+	opacity: 0.75;
+}
+ 
+label{
+	font-size: 11pt;
+}
+ 
+.form_daftar{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+ 
+.tombol_daftar{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+ 
